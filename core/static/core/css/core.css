@@ -1,0 +1,29 @@
+.st-font{
+    font-family: 'Satisfy', cursive;
+}
+
+
+
+.body{
+    height: 100%;
+}
+
+
+.Container-fluid{
+    min-height: 100%;
+}
+
+/* Services Icons */
+
+.i-colo{
+    color: chartreuse;
+}
+
+/* Services Subtitle */
+
+.ss-color{
+    color: whitesmoke;
+}
+.a.nav-link{
+    color: whitesmoke;
+}
